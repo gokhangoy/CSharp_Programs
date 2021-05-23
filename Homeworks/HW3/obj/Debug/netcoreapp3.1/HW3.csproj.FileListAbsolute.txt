@@ -1,0 +1,13 @@
+D:\Projects\C#_Projects\Homeworks\HW3\bin\Debug\netcoreapp3.1\HW3.exe
+D:\Projects\C#_Projects\Homeworks\HW3\bin\Debug\netcoreapp3.1\HW3.deps.json
+D:\Projects\C#_Projects\Homeworks\HW3\bin\Debug\netcoreapp3.1\HW3.runtimeconfig.json
+D:\Projects\C#_Projects\Homeworks\HW3\bin\Debug\netcoreapp3.1\HW3.runtimeconfig.dev.json
+D:\Projects\C#_Projects\Homeworks\HW3\bin\Debug\netcoreapp3.1\HW3.dll
+D:\Projects\C#_Projects\Homeworks\HW3\bin\Debug\netcoreapp3.1\HW3.pdb
+D:\Projects\C#_Projects\Homeworks\HW3\obj\Debug\netcoreapp3.1\HW3.csprojAssemblyReference.cache
+D:\Projects\C#_Projects\Homeworks\HW3\obj\Debug\netcoreapp3.1\HW3.AssemblyInfoInputs.cache
+D:\Projects\C#_Projects\Homeworks\HW3\obj\Debug\netcoreapp3.1\HW3.AssemblyInfo.cs
+D:\Projects\C#_Projects\Homeworks\HW3\obj\Debug\netcoreapp3.1\HW3.csproj.CoreCompileInputs.cache
+D:\Projects\C#_Projects\Homeworks\HW3\obj\Debug\netcoreapp3.1\HW3.dll
+D:\Projects\C#_Projects\Homeworks\HW3\obj\Debug\netcoreapp3.1\HW3.pdb
+D:\Projects\C#_Projects\Homeworks\HW3\obj\Debug\netcoreapp3.1\HW3.genruntimeconfig.cache
