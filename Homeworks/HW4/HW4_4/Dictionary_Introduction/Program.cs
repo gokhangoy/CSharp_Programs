@@ -16,7 +16,7 @@ namespace Dictionary_Introduction
             MyDictionary<int, string> keyValuePairs = new MyDictionary<int, string>();
             keyValuePairs.Add(1,"Gokhan");
             keyValuePairs.Add(2,"Gokhan2");
-            keyValuePairs.Add(3,"Gokhan2");
+            keyValuePairs.Add(1,"Gokhan2");
             keyValuePairs.Display();
             Console.WriteLine("The length of key-value pairs is : "+keyValuePairs.Count);
             
