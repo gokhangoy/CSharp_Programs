@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "SV4v6JktLO97C5OuLE5TbMpTJENCxecU2kvt8lZbzrKhgjpNNZuFmYEUoh36coL0h+tu2/uSXqRPc5razScO1w==",
+  "success": true,
+  "projectFilePath": "D:\\Projects\\C#_Projects\\github_CSharp_Programs\\Homeworks\\HW5\\HW5_4\\InterfaceAbstractDemo\\InterfaceAbstractDemo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\GökhanGöy\\.nuget\\packages\\microsoft.extensions.apidescription.client\\3.0.0\\microsoft.extensions.apidescription.client.3.0.0.nupkg.sha512",
+    "C:\\Users\\GökhanGöy\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512",
+    "C:\\Users\\GökhanGöy\\.nuget\\packages\\nswag.apidescription.client\\13.0.5\\nswag.apidescription.client.13.0.5.nupkg.sha512",
+    "C:\\Users\\GökhanGöy\\.nuget\\packages\\nswag.msbuild\\13.0.5\\nswag.msbuild.13.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}
